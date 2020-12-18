@@ -1,0 +1,14 @@
+.sidebar-container a {
+    display: block;
+    padding:5px;
+    margin-left: 25px;
+    color:#5C5F62;
+    font-weight: 700;
+}
+.sidebar-container a:hover {
+    text-decoration: none;
+}
+.sidebar-container {
+    border-right: 1px solid lightgray;
+    height: 100vh;
+}

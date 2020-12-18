@@ -1,0 +1,8 @@
+.orders-container {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    padding: 50px;
+}
+.orders-container img {
+    height: 250px;
+}

@@ -1,0 +1,29 @@
+.home-container {
+    height: 400px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding:0;
+}
+.home-head {
+    border-bottom: 1px solid lightgray;
+    width: 100%;
+}
+.home-head h3{
+    padding:15px;
+    color:#202223;
+}
+.home-container a {
+    padding : 20px;
+    border : 1px solid lightgray;
+    display: block;
+    color:#5C5F62;
+    font-weight: 700;
+    text-decoration: none;
+    background-color:#F1F2F3;
+}
+.home-menu {
+   border-right : 1px solid lightgray;
+   padding-right:0 !important;
+   height: 303px;
+}
